@@ -5,7 +5,7 @@ import javaScriptQuiz from '../../assets/Portfolio/javaScriptQuiz.JPG';
 import musicBox from '../../assets/Portfolio/musicBox.JPG';
 import petHub from '../../assets/Portfolio/petHub.JPG';
 import noteTaker from '../../assets/Portfolio/noteTaker.JPG';
-import makeADeal from '../../assets/Portfolio/noteTaker.JPG';
+import makeADeal from '../../assets/Portfolio/makeADeal.JPG';
 
 
 function Portfolio() {
